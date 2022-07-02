@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bitly</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div class="container">
+        
+        <header>
+            <div class="header"> 
+                      <li>
+                      <a href= "https://bitly.com/" target="_blank">
+                      <img src=https://docrdsfx76ssb.cloudfront.net/static/1655480690/pages/wp-content/uploads/2021/08/bitly_logo.svg" alt="Ilustração Bitly" >
+                     </a>
+                <nav>
+                   <ul>                      
+                     <li>
+                     <a>Why bitly?</a>
+                     </li>
+                     <li>
+                    <a>Products</a>
+                    </li>
+                    <li>
+                    <a>Pricing</a>
+                     </li>
+                      <li>
+                    <a>Resources</a>
+                     </li>
+                  </ul> 
+
+                </nav>
+            </div>
+
+            <div class="right">
+                <li>
+                    Log in
+                </li>
+                <li>
+                    <a>Sign up Free</a>
+                </li>
+            </div>
+
+            
+        </header>
+
+        <main>
+            <section>
+                <h1>Short links, big results</h1>
+
+                 <h2>A URL shortener built with powerful tools to help you grow and protect your brand.</h2>
+
+                <div class="central">                    
+                    <li>
+                        <a href="https://bitly.com/pages/pricing" target="_blank">Get Started for Free</a>
+                    </li>
+                    <li>
+                       <a href="https://bitly.com/pages/landing/discover-enterprise" target="_blank">Get a Quote</a>
+                    </li>
+                    
+                 </div>
+
+            </section>    
+
+        </main>  
+
+        <footer>
+            <div class="footer">
+                <li>
+                    <img src="./captura.PNG" alt="bitly + Qr code">
+                </li>
+            </div>
+        </footer>  
+
+    </div>
+
+
+</body>
+
+</html>
